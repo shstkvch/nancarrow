@@ -1,0 +1,4 @@
+name: nancarrow
+recipe: lamp
+config:
+  webroot: .
